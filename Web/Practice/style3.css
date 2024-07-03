@@ -1,0 +1,35 @@
+body
+{
+	background-image: url(Image.jpg);
+	background-size: cover;
+}
+li
+{
+	list-style: none;
+	display: inline-block;
+	cursor: pointer;
+}
+h1
+{
+	color: red;
+	text-transform: uppercase;
+}
+p
+{
+	text-decoration: underline;
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 150%;
+	font-family: "Monotype Corsiva";
+}
+img
+{
+	float: left;
+}
+footer
+{
+	clear: both;
+	text-align: center;
+	color: orange;
+}

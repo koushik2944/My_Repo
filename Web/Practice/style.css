@@ -1,0 +1,33 @@
+body
+{
+	background-image: url(Image.jpg);
+	background-size: cover;
+	text-align: center;
+}
+h1:hover
+{
+	color: red;
+	text-align: center;
+	cursor: pointer;
+}
+p{
+	border: 5px dashed purple;
+}
+li
+{
+	list-style: none;
+	display: inline-block;
+	cursor: pointer;
+}
+.text:first-child
+{
+	color: brown;
+}
+.text:last-child
+{
+	color: crimson;
+}
+#div1
+{
+	background-color: lightblue;
+}

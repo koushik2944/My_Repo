@@ -1,0 +1,16 @@
+body
+{
+	background-image: url(Image.jpg);
+	background-size: cover;
+}
+h1
+{
+	color: blue;
+	text-align: center;
+}
+li
+{
+	list-style: none;
+	display: inline-block;
+	cursor: pointer;
+}

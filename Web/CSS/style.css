@@ -1,0 +1,49 @@
+body
+{
+	background-image: url(bgi.png);
+	background-size: cover;
+}
+h2:hover
+{
+	color: red;
+	text-align: center;
+	border: solid black;
+	cursor: pointer;
+}
+
+p
+{
+	color: chocolate;
+}
+li
+{
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext
+{
+	background: white;
+	text-align: center;
+	border: solid green;
+}
+
+.active
+{color: red;}
+
+#id1
+{
+	background: lightgreen;
+}
+
+#id2
+{
+	background: lightpink;
+	border: solid green;
+}
+img
+{
+	max-width: 100%;
+  	height: auto;
+  	float: right;
+}

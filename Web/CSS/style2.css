@@ -1,0 +1,32 @@
+body
+{
+	background-image: url(bgi.png);
+	background-size: cover;
+}
+p
+{
+	text-decoration: underline;
+	text-transform: uppercase;
+	color: red;
+	line-height: 30px;
+	font-size: 150%;
+	font-style: italic;
+	font-family: "Monotype Corsiva";
+	font-weight: bold;
+}
+img
+{
+	float: right;
+}
+footer
+{
+	clear: both;
+	text-align: center;
+}
+.boxmodel
+{
+	border: 5px solid red;
+	display: inline-block;
+	padding: 0px 20px 0px 20px;
+	margin: 0px 20px 0px 20px;
+}
